@@ -1,5 +1,5 @@
 require "./lib/student.rb"
-class Chatty_Student < Student
+class ChattyStudent < Student
   def hello()
     super()
   end
