@@ -4,6 +4,6 @@ class Student
   end
   
   def raise_hand()
-    return "Pick me!"
+    put "Pick me!"
   end
 end
