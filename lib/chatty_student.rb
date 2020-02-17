@@ -4,4 +4,4 @@ class Chatty_Student < Student
   end
   
   def raise_hand()
-    
+    for i 
